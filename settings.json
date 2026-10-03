@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      {
+        "tool": "WebFetch",
+        "domain": "oldmapsonline.org"
+      }
+    ]
+  }
+}
